@@ -34,7 +34,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
-#markdown: kramdown
+markdown: kramdown
 
 paginate: 3
 paginate_path: "/page/:num/"
