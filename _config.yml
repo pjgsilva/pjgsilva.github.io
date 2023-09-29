@@ -42,6 +42,27 @@ paginate_path: "/page/:num/"
 timezone: Europe/Lisbon
 date_locale: pt
 
+hide_search: true
+
+collections:
+  santiago:
+
+defaults:
+  - scope:
+      path: ""
+      type: "santiago"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

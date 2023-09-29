@@ -1,0 +1,14 @@
+---
+layout: page
+title: Operação Santiago
+---
+<p>Escrivinhices</p>
+
+
+{% for santiago in site.santiago %}
+<p>
+  <h3>{{ santiago.title }}</h3>
+  <h4>{{ santiago.subtitle }}</h4>
+  <p>{{ santiago.content | markdownify }}</p>
+</p>
+{% endfor %}
