@@ -2,13 +2,18 @@
 layout: page
 title: Operação Santiago
 ---
-<p>Escrivinhices</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q4D-hlvFkQc?si=Cu2EVseWzv2X6lYn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<p>Estas são as memórias escritas durante o périplo até Santiago de Compostela, em Abril de 2017.</p>
+<p>A dois anos de distância, só agora li, e transcrevi aqui, o manuscrito.</p>
+<p>A primeira impressão é que, estranhamente, fui muito telegráfico. A segunda, é que ficou tanto por dizer, que parece que o foco estava noutro lado na altura.
+Talvez reflexo do cansaço e do estado de espírito de então. De bicicleta não é possível ser tão comtemplativo como a pé, não é possível parar tão amiúde de forma a poder escrever.</p>
+<p>Mas ao ler e recordar, dá vontade de acrescentar pontos ao conto... Lá estão, no final de cada entrada.</p>
 
-{% for santiago in site.santiago %}
+{% for dia in site.santiago %}
 <p>
-  <h3>{{ santiago.title }}</h3>
-  <h4>{{ santiago.subtitle }}</h4>
-  <p>{{ santiago.content | markdownify }}</p>
+  <h3>{{ dia.title }}</h3>
+  <h4>{{ dia.subtitle }}</h4>
+  <p>{{ dia.content | markdownify }}</p>
 </p>
 {% endfor %}

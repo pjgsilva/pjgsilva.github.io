@@ -36,7 +36,7 @@ plugins:
 
 markdown: kramdown
 
-paginate: 3
+paginate: 10
 paginate_path: "/page/:num/"
 
 timezone: Europe/Lisbon
@@ -46,11 +46,29 @@ hide_search: true
 
 collections:
   santiago:
+  albums:
+  movies:
+  books:
 
 defaults:
   - scope:
       path: ""
       type: "santiago"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "albums"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "movies"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "books"
     values:
       layout: "post"
   - scope:

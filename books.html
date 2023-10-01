@@ -1,0 +1,16 @@
+---
+layout: page
+title: Livros durante a pandemia
+---
+
+<p>Como não há duas sem três, chegou a vez dos livros.</p>
+<p>O meu método vai ser simples. Sem buscas aos recantos poeirentos da memória, sem buscas na internet, todos os dias percorro as estantes e escolho um.</p>
+<p class="divided">E para não dizerem que as minhas listas andam sempre pelo estrangeiro, começo em português.</p>
+
+{% for book in site.books %}
+<p>
+  <h3>{{ book.title }}</h3>
+  <h4>{{ book.subtitle }}</h4>
+  <p>{{ book.content | markdownify }}</p>  
+</p>
+{% endfor %}
