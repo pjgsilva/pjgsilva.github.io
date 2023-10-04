@@ -4,7 +4,7 @@ subtitle: De Santarém a Tomar
 date: 2017-04-09
 ---
 
-Arranjar alforges e bikes.
+Arranjar alforges e *bikes*.
 
 Ainda antes da largada, passagem por um café onde encontrámos umas peregrinas que estavam a **treinar** para Fátima 😊
 

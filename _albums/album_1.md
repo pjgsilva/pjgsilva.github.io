@@ -4,7 +4,9 @@ subtitle: Démis Roussos
 date: 2020-05-15
 ---
 
-![souvenirs](assets/images/dsc_1.jpg)
+### {{page.title}} ###
+#### {{page.subtitle}} ####
+![souvenirs](assets/images/album-list/dsc_1.jpg)
 
 *"O Paulo sempre ouviu música desde tenra idade porque o seu pai andava sempre pela casa com um rádio transístor o dia inteiro. Aliás, hoje, com 78 anos, ainda o faz.*
 

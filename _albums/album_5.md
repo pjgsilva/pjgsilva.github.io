@@ -4,7 +4,9 @@ subtitle: Gary Moore
 date: 2020-05-19
 ---
 
-![greeny](assets/images/dsc_5.jpg)
+### {{page.title}} ###
+#### {{page.subtitle}} ####
+![greeny](assets/images/album-list/dsc_5.jpg)
 
 *"Por mais que ouça e ouça, no final, o Paulo só tem um refúgio musical. Se fosse obrigado a ter de escolher um único género para ouvir até ao fim da vida, seria blues.*
 

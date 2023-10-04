@@ -3,12 +3,14 @@ title: "Brothers in Arms"
 category: reflexao
 ---
 
-Segundo aqui o FB, tenho 41 amigos. Uma vergonha para os padrões habituais. Mas por outro lado, quer dizer que o diagrama de Venn dos amigos virtuais e reais são dois círculos coincidentes.
+Segundo o Facebook, tenho 41 amigos. Uma vergonha para os padrões habituais. Mas por outro lado, quer dizer que o diagrama de Venn dos amigos virtuais e reais são dois círculos coincidentes.
+
 E isso quer dizer que posso dizer algumas coisas sem filtros.
 
 Passei o último dia de férias em familia, ou com parte dela, e fica já aqui o *disclaimer* que, enquanto escrevo isto, estou com demasiado sangue no meu sistema alcoólico.
 
-O João tem 17 anos e quando era pequeno adormeci-o muitas vezes a cantar-lhe Brothers in Arms.\
+O João tem 17 anos e quando era pequeno adormeci-o muitas vezes a cantar-lhe Brothers in Arms.
+
 Não precisei de recorrer muitas vezes a tamanhos dotes com o André, mas não posso deixar de me sentir feliz em verificar que o mesmo Brothers in Arms ainda resulta agora com o David (acalmou e adormeceu na segunda estrofe).
 
 Vou acalentar a esperança que ainda vou conseguir tocar alguma coisa em família. O João tem alguma vontade com teclas, o David, pelo temperamento, há de pegar na bateria. Esperemos que o André descubra as maravilhas do baixo.
@@ -43,3 +45,5 @@ Sem rede.... (deixo os solos à vossa melhor memória, mas são imprescindíveis
 >And every line in your palm\
 >We're fools to make war\
 >On our brothers in arms
+
+*[Ver, mas principalmente, ouvir](https://youtu.be/jhdFe3evXpk?si=O-pANzGPJR05CD4l)*

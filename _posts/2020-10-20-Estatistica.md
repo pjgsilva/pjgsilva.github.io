@@ -13,12 +13,12 @@ Avalia-se, decide-se e em ultima análise vive-se, com base em estatísticas. Tr
 
 O Homem deixou de ponderar subjectividades. Até a Filosofia se pondera em retirar dos currículos. Tornámo-nos máquinas subservientes à Objectividade.
 
-Submerge-se a malta de percentagens, que a maioria engole sem mastigar, como se fossem uns simples canapés que nem vêem se estão estragados. E pior, passam a propalar os números ao próximo como verdades dogmáticas.
+Submerge-se a malta de percentagens, que a maioria engole sem mastigar, como se fossem uns simples canapés e que nem sequer vêem se estão estragados. E pior, passam a propalar os números ao próximo como verdades dogmáticas.
 
 Levam-na tão a sério que nem se lembram que nasceu do jogo.
 
 Bom, vou à procura de um bom Poisson para o almoço, quem sabe, bem Gaussadinho no forno.
 
-Ah, é verdade. Hoje também é dia mundial do combate ao bullying.
+Ah, é verdade. Hoje também é dia mundial do combate ao *bullying*.
 
-Just saying...
+*Just saying...*

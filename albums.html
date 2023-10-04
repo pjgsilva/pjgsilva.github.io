@@ -4,13 +4,13 @@ title: Música durante a pandemia
 ---
 
 <p>Através de vários desafios, muitas listas circularam durante a pandemia.</p>
-<p>A primeira que me chegou foi musical. O critério era albuns que tenham influenciado significativamente os meus gostos musicais.<br>Um álbum por dia, em dez dias consecutivos. Sem ordem cronológica, sem explicações, sem reviews, só a capa de cada disco.</p>
+<p>A primeira que me chegou foi musical. O critério era albuns que tenham influenciado significativamente os meus gostos musicais.<br>Um álbum por dia, em dez dias consecutivos. Sem ordem cronológica, sem explicações, sem <em>reviews</em>, só a capa de cada disco.</p>
 <p class="divided">Sem explicações seria muito difícil. Foram dadas nos comentários, por um alter-ego.</p>
 
 {% for album in site.albums %}
 <p>
-  <h3>{{ album.title }}</h3>
-  <h4>{{ album.subtitle }}</h4>
+  <!--<h3>{{ album.title }}</h3>
+  <h4>{{ album.subtitle }}</h4>-->
   <p>{{ album.content | markdownify }}</p>  
 </p>
 {% endfor %}

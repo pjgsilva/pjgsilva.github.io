@@ -12,9 +12,7 @@ Para além da ligação óbvia à recente utilização na excelente Casa de Pape
 Goran Bregovič, um dos concertos mais memoráveis a que assisti na vida.
 O distinto ritmo e timbre dos metais, com o casamento entre alegria e tristeza intrínsecas à vida, tantas vezes vistas como antagónicas mas, na realidade complementares, e que os eslavos tão bem sabem transmitir musicalmente.
 
-E quem pode falar de Goran, sem falar de Kusturica?\
-Enfim, um regalo para todos os sentidos.\
-Letra simples mas cheia de significados.
+E quem pode falar de Goran sem falar de Kusturica? Enfim, um regalo para todos os sentidos. Letra simples mas cheia de significados.
 
 >Una mattina mi son alzato,\
 >o bella ciao, bella ciao, bella ciao ciao ciao!\
@@ -46,4 +44,4 @@ Letra simples mas cheia de significados.
 >questo è il fiore del partigiano\
 >morto per la libertà
 
-*<https://youtu.be/OyMA84-mowI?si=51uYGr_JI1nr5DZa>*
+*[Para degustar](https://youtu.be/OyMA84-mowI?si=51uYGr_JI1nr5DZa)*

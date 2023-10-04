@@ -15,9 +15,14 @@ Conseguimos albergue em Ponte de Lima e jantámos muito bem no "Convento da Gula
 
 *O melhor episódio do início do dia não foi o Jorge ter mais um furo. Foi o Jorge ter ido pôr a roupa a lavar na lavandaria, que afinal era só para serviço do hostel, com o homem a reclamar atrás dele.*
 
-*No registo no albergue em Ponte de Lima, perguntarem que Caminho estavamos a fazer, e o Coelho diz: "Central".\
-Mas tínhamos vindo de Viana.\
-"Então, estão a fazer o da costa?"\
-"Não, é uma mistura..."*
+*No registo no albergue em Ponte de Lima, perguntarem que Caminho estavamos a fazer, e o Coelho diz:*
+
+*"Central"*.
+
+*Mas tínhamos vindo de Viana.*
+
+*"Então, estão a fazer o da costa?"*
+
+*"Não, é uma mistura..."*
 
 *Ficou por aqui a conversa* 😊

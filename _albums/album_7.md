@@ -4,7 +4,9 @@ subtitle: Manowar
 date: 2020-05-21
 ---
 
-![manowar](assets/images/dsc_7.jpg)
+### {{page.title}} ###
+#### {{page.subtitle}} ####
+![manowar](assets/images/album-list/dsc_7.jpg)
 
 *"O Paulo gosta muito de falar deste álbum.*
 

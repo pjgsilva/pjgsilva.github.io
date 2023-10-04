@@ -4,7 +4,9 @@ subtitle: Ernest Hemingway
 date: 2020-06-08
 ---
 
-![Morte à tarde](assets/images/bk_6.jpg)
+### {{page.title}} ###
+#### {{page.subtitle}} ####
+![Morte à tarde](assets/images/book-list/bk_6.jpg)
 
 Gosto muito de Hemingway e penso que este é um dos melhores.
 

@@ -4,7 +4,9 @@ subtitle: José Carlos Somoza
 date: 2020-06-16
 ---
 
-![A caverna das ideias](assets/images/bk_21.jpg)
+### {{page.title}} ###
+#### {{page.subtitle}} ####
+![A caverna das ideias](assets/images/book-list/bk_21.jpg)
 
 Vários crimes na Grécia de Platão, talvez motivados por razões filosóficas, investigados por Heracles Pontor (olha a piscadela à Agatha), numa narrativa da época. Após a investigação, Heracles julga ter sido enganado pelas aparências.
 

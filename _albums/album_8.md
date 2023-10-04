@@ -4,7 +4,9 @@ subtitle: Cannonball Adderley
 date: 2020-05-22
 ---
 
-![adderley](assets/images/dsc_8.jpg)
+### {{page.title}} ###
+#### {{page.subtitle}} ####
+![adderley](assets/images/album-list/dsc_8.jpg)
 
 *"Epoxidamente, se o "Kind of Blue" do Miles Davies foi a resina, este álbum foi o endurecedor que faltava para selar definitivamente a relação até aí tumultuosa do Paulo com o jazz.*
 

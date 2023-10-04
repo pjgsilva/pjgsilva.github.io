@@ -4,7 +4,9 @@ subtitle: Dire Straits
 date: 2020-05-18
 ---
 
-![alchemy](assets/images/dsc_4.jpg)
+### {{page.title}} ###
+#### {{page.subtitle}} ####
+![alchemy](assets/images/album-list/dsc_4.jpg)
 
 *"Numa estranha e retorcida analogia com os dias de hoje, naqueles tempos conhecer boa música nova pressupunha uma rede social. A rádio, tal como hoje, com execepção de um ou dois programas, não era opção. Só uma rede social de amigos "físicos" permitia a partilha de discos. E para continuar a ouvir após devolver o disco, era preciso passar o mesmo para cassete. Mas o "master", o disco, era objecto de desejo.*
 

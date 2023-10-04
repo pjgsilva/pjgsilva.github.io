@@ -5,8 +5,8 @@ category: reflexao
 
 Na Prio.
 
-"Impressora indisponível. Quer continuar?"
+*"Impressora indisponível. Quer continuar?"*
 
-Digo, ou melhor, pressiono Sim.
+Digo, ou melhor, pressiono __Sim__.
 
-"Tem uma factura pendente. Deseja imprimir?"
+*"Tem uma factura pendente. Deseja imprimir?"*

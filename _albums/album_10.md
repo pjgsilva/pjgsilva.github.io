@@ -4,7 +4,9 @@ subtitle: Roger Waters
 date: 2020-05-24
 ---
 
-![waters](assets/images/dsc_10.jpg)
+### {{page.title}} ###
+#### {{page.subtitle}} ####
+![waters](assets/images/album-list/dsc_10.jpg)
 
 *"Agora que ele já pôs o último, já posso dizer: O Paulo é um bota de elástico.*
 

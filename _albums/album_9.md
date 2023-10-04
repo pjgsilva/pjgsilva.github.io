@@ -4,7 +4,9 @@ subtitle: Gentle Giant
 date: 2020-05-23
 ---
 
-![giant](assets/images/dsc_9.jpg)
+### {{page.title}} ###
+#### {{page.subtitle}} ####
+![giant](assets/images/album-list/dsc_9.jpg)
 
 *"O Paulo já conhecia rock progressivo (rótulo abusivo e demasiado abrangente, tal como o sinfónico, diz ele), e pensava que, uns melhores que outros é certo, mas andavam todos pelas mesmas praias.*
 

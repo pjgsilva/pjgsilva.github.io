@@ -3,7 +3,8 @@ title: "Duran Duran"
 date: 2020-05-16
 ---
 
-![duran](assets/images/dsc_2.jpg)
+### {{page.title}} ###
+![duran](assets/images/album-list/dsc_2.jpg)
 
 *"Como é habitual, a vida do Paulo mudou quando passou da primária para o ciclo.*
 

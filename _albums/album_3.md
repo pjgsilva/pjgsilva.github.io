@@ -3,7 +3,8 @@ title: "Black Sabbath"
 date: 2020-05-17
 ---
 
-![sabbath](assets/images/dsc_3.jpg)
+### {{page.title}} ###
+![sabbath](assets/images/album-list/dsc_3.jpg)
 
 *"Penso que este foi o primeiro game-changer do Paulo.*
 

@@ -3,7 +3,7 @@ title: "Trumpland"
 category: reflexao
 ---
 
-O país da modernidade - supostamente - em que se continua a dar vida à mentalidade de há 2 séculos atrás.
+O país da modernidade - supostamente - em que se continua a dar vida à mentalidade de há 2 séculos.
 
 Permitir a vigência da 2ª emenda numa constituição que não é ajustada aos tempos, vai além do anacronismo, é uma aberração.
 

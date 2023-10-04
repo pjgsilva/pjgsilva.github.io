@@ -3,11 +3,11 @@ title: "Afinal fecha. Mas não é já."
 category: opiniao
 ---
 
-Da comunicação do PM de ontem retive que vão encerrar as escolas "desde já, com efeitos a partir de 2ª feira". 🤔
+Da comunicação do PM de ontem retive que vão encerrar as escolas *"desde já, com efeitos a partir de 2ª feira"*. 🤔
 
 Deixando de lado o problema temporal existente na frase, só posso concluir que o governo tem acesso a informação privilegiada. Garantidamente, é certo e sabido que só a partir de 2ª feira o Corona planeou a sua ida às escolas, já que hoje e no fim de semana deve andar pelas praias....
 
-E ainda bem que quis dizer com clareza "O encerramento das escolas não se deve ao facto das escolas serem um local de contaminação. Mas pelo contrário, deve-se ao facto da escola ser um local de contacto, ser um local que favorece naturalmente a contaminação" 🤔
+E ainda bem que quis dizer com clareza *"O encerramento das escolas não se deve ao facto das escolas serem um local de contaminação. Mas pelo contrário, deve-se ao facto da escola ser um local de contacto, ser um local que favorece naturalmente a contaminação"* 🤔
 
 É também interessante que passados dois dias a serrar presunto sobre se fecham ou não, bastou uma recomendação do Centro Europeu de Prevenção e Controlo das Doenças (ECDC) para tomar a decisão, contrária aliás à sugerida pelo Conselho Nacional de Saúde Pública no dia anterior.
 

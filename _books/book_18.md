@@ -4,7 +4,9 @@ subtitle: Carlos Ruiz Zafón
 date: 2020-06-20
 ---
 
-![A sombra do vento](assets/images/bk_26.jpg)
+### {{page.title}} ###
+#### {{page.subtitle}} ####
+![A sombra do vento](assets/images/book-list/bk_26.jpg)
 
 No dia seguinte à sua morte, esta entrada deixa de ser apenas uma evocação para ser também uma homenagem. Passei por ele várias vezes ao longo destes dias de elencar livros, não podia passar de hoje. Se calhar foi melhor assim.
 

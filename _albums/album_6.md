@@ -4,7 +4,9 @@ subtitle: Richard Strauss
 date: 2020-05-20
 ---
 
-![zaratustra](assets/images/dsc_6.jpg)
+### {{page.title}} ###
+#### {{page.subtitle}} ####
+![zaratustra](assets/images/album-list/dsc_6.jpg)
 
 *"Não se sabe bem porquê, o Paulo resistiu bastante tempo a dedicar alguma atenção à chamada música clássica. A discografia paterna tinha expressão suficiente neste campo, mas nunca lhe chamou muito à atenção. Os concertos de ano novo na TV foram talvez contraproducentes graças aos repertórios straussianos já mais que gastos.*
 

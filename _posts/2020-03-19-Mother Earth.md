@@ -12,4 +12,4 @@ Kind of makes sense now 🤔
 >For I knew I had to rise above it all\
 >Or drown in my own shit
 
-*<https://youtu.be/JOKn33-q4Ao?si=BYnJcjFaNgsJmsxC>*
+*[Isto é mesmo p'ra carola](https://youtu.be/JOKn33-q4Ao?si=BYnJcjFaNgsJmsxC)*
