@@ -16,13 +16,13 @@
 .post > h1 {
   font-size: 2em;
   max-width: 48rem;
-  padding: 2em 1em;
+  padding: 2em 1em 0.5em 1em;
   text-align: center;
 }
 
 .post p {
   text-align: justify;
-  text-indent: 1.5em;
+  /*text-indent: 1.5em;*/
   text-justify: inter-word;
 }
 
