@@ -8,7 +8,9 @@ date: 2020-06-14
 
 Um trio de luxo.
 
+<br/>
 **"Mrs. Dalloway"** como fio condutor intertemporal entre as personagens e a própria Virgínia.
 
+<br/>
 Lindo
 {:.divided}

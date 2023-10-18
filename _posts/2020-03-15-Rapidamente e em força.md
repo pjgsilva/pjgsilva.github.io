@@ -7,4 +7,5 @@ Ontem, com **"apenas"** 6 casos confirmados, a PM neozelandesa anunciou quarente
 
 Começou com a frase *"We must go hard and we must go early"*.
 
+<br/>
 Por cá, rapidamente e em força, só em 61.

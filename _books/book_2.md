@@ -10,7 +10,9 @@ date: 2020-06-04
 
 Uma viagem. Devia ser leitura obrigatória na escola.
 
+<br/>
 Estou convencido que ajudaria a deitar por terra os preconceitos existentes relativamente à matemática e às *core sciences*.
 
+<br/>
 Também uma lição de pedagogia. Leccionar desta forma cativaria muito mais.   
 {:.divided}

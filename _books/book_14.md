@@ -10,9 +10,12 @@ date: 2020-06-16
 
 Vários crimes na Grécia de Platão, talvez motivados por razões filosóficas, investigados por Heracles Pontor (olha a piscadela à Agatha), numa narrativa da época. Após a investigação, Heracles julga ter sido enganado pelas aparências.
 
+<br/>
 Na actualidade, um tradutor traduz a narrativa, introduzindo no processo uma profusão de notas de rodapé que dão, só de si, mais uma linha narrativa, porque pensa que o texto tem uma mensagem escondida. Mais uma vez, aparência ou realidade? (E já agora, o que é realidade? 🤔)
 
+<br/>
 No final, o leitor fica um bocado na dúvida se o autor (do livro, não do pergaminho 😁) não será uma aparência também....
 
+<br/>
 Como o nome indica, a caverna de Platão, em doze capítulos. Como os trabalhos do "verdadeiro" Heracles 😁
 {:.divided}

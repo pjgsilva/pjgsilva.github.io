@@ -8,10 +8,12 @@ date: 2020-06-14
 #### {{page.subtitle}} ####
 Todos os dias passo pela estante da BD. Não podia andar a deambular pelos livros e deixar a BD de fora. Vai ser hoje.
 
+<br/>
 Mais uma vez vou evitar clássicos. Claro que passei pela fase Disney e devorei Asterix e Tintim. Nunca gostei da turma da Mônica. Mais tarde descobri Marvel e foi a desgraça. Sempre detestei DC.
 Destes tempos guardo a memória (e alguns exemplares 😁) de quando a editora Abril era sinónimo de Disney (e Marvel), antes de as edições passarem a ser nacionais pela Morumbi e, apesar de o português ter melhorado, perdeu-se completamente aquele toque e cheiro que a Abril tinha.
 De permeio tive contacto com outras coisas claro, mas lá está, vamos entrar em clássicos e não vale a pena.
 
+<br/>
 Para arrumar então o assunto, vai um quatro em um.
 
 |![O Terceiro Testamento](assets/images/book-list/bk_15.jpg)|![O Terceiro Testamento](assets/images/book-list/bk_13.jpg)|
@@ -32,6 +34,7 @@ __*O Mercenário*__
 
 Pronto, ok, no fundo este já é um clássico. Ficção científica misturada com fantasia "medieval", em que a magia é na verdade ciência avançada. Artisticamente muito bom, não só pelo grafismo mas também porque as pranchas são a óleo.
 
+<br/>
 Infelizmente, em Portugal esta colecção ficou-se pelos 9 albuns. As cegadas do costume quando as editoras vão ao ar e quando o público não é suficiente para justificar edições. Da saudosa Meribérica que tanto fez pela BD em Portugal enquanto pôde.
 
 ![Druuna](assets/images/book-list/bk_19.jpg)

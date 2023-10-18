@@ -10,41 +10,59 @@ date: 2020-06-27
 
 Se os distraídos ainda não perceberam, sou um homem de paixões (plural, isto é importante). O que, como tudo na vida, pode ser simultaneamente bom e mau.
 
+<br/>
 É bom porque as paixões permitem viver a vida mais intensamente e é com intensidade que ela deve ser vivida. É mau, porque perseguir uma multiplicidade de paixões é tremendamente dispersivo. De qualquer forma, penso que é preferível dispersar por várias paixões do que focar apenas numa. De paixão passaria a obcessão, o que já não seria saudável.
 
+<br/>
 Qualquer apaixonado é um Maria-Vai-Com-As-Outras. Segue uma até se cruzar com outra (já sei o que muitos estão a pensar, não, não estou a falar a esse nível 😇).
 
+<br/>
 Consequentemente elas vão-se acumulando e o tempo não dá para me dedicar a todas na mesma proporção.
 
+<br/>
 E eu aprendo? Não.
 
+<br/>
 Assim, arranjei mais uma há uns bons anos atrás, mas a gaja foi esperta. É daquelas que se mete na vida quotidiana, insinua-se mesmo que se tente ignorá-la.
 
+<br/>
 E perguntam vocês de que raio estou eu a falar e que tem esta seca de conversa a ver com o último livro? Fonix, queres ver que este gajo com a conversa das paixões guardou para o fim um Shakespeare ou um Eça, ou pior, ainda vai sugerir agarrar nos Lusíadas e procurar a Ilha dos Amores? Dasss!
 
+<br/>
 Não, só e apenas, o maravilhoso mundo bacteriano 🤣
 
+<br/>
 Para terminar então, a paixão por cuidar dos bichanitos e, como um deus, dizer-lhes crescei e multiplicai-vos. E eles crescem e multiplicam-se. E criam coisas maravilhosas. E a paixão transforma-se em prazer. Pela realização e pela degustação.
 
+<br/>
 Lentamente, a coisa entranhou. Foi tomando conta dos hábitos cá de casa. Começou pelo pão[^1].
 
+<br/>
 Começou pelo pão, passou aos iogurtes, vinagre e chucutre. Agora está nos queijos.
 
+<br/>
 Bom, vou ser sincero e mais rigoroso. Começou pelo pão quando me dediquei de forma mais sistemática.
 Na realidade, antes do pão, que como disse atrás, não será o processo iniciático mais simples, começou ousadamente por algo ainda mais difícil: sidra e vinho.
 
+<br/>
 Os primeiros passos com sidra, de que obtive... esqueçam.
 
+<br/>
 Depois um ou dois litros de vinho. Quer dizer, qualquer coisa que acabou por ficar para vinagre.
 
+<br/>
 E há cinco ou seis anos atrás, fiz cerca de 60lts dos quais ainda não sei o resultado 😁. Tenho fezada sincera que é vinho, a Ana diz que é vinagre, secretamente espero que não seja para deitar fora....
 
+<br/>
 Mas sabem que mais? Foram cachos colhidos por mim, pisados por mim e pelo André, os dois metidos numa tina, e não imaginam a satisfação quando a bicharada começou a consumir o açucar, a multiplicar-se e a pôr o mosto a borbulhar a meio a um zumbido que parecia uma turbina.
 
+<br/>
 Paixões, que se pode fazer?
 
+<br/>
 Enfim, ainda não sei que bichos vou pôr a trabalhar a seguir, mas as possibilidades são inúmeras.
 
+<br/>
 A minha última sugestão é este livro maravilhoso.
 
 [^1]: Aviso já os incautos interessados, não comecem pelo pão. A simplicidade é só aparente.

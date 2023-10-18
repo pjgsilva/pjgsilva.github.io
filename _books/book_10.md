@@ -10,7 +10,9 @@ date: 2020-06-12
 
 Mais uma vez um [cruzamento inevitável de listas](movies.html#o-hotel).
 
+<br/>
 Um grande livro de Rushdie, uma viagem à Índia de outros tempos, a Índia da sua juventude, numa história intertemporal entre os personagens, que são artistas, numa evocação da história do rock, mas no setting indiano.
 
+<br/>
 Isto é uma simplificação(??) minha, a história é muito mais complexa e interessante do que aparenta a minha muito mal amanhada sinopse.
 {:.divided}
