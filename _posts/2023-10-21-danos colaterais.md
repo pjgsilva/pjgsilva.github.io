@@ -10,7 +10,7 @@ Ao abrigo de convenções e regras, desde que obedeça aos critérios definidos,
 
 <br/>
 Justificável e tolerável passou também a ser o desprezo pela vida humana.
-Civis sempre sofreram com a guerra, é certo, mas até ao advento da aviação e da sua utilização na 1ª guerra, não eram alvos primários. Nesta altura surgiu o conceito de bombardeamento estratégico de alvos civis, principalmente cidades, com intuito desmoralizatório.
+Civis sempre sofreram com a guerra, é certo, mas até ao advento da aviação e da sua utilização na 1ª guerra, não eram alvos primários. Nesta altura surgiu o conceito de bombardeamento estratégico de alvos civis, principalmente cidades, com intuito desmoralizador.
 
 Inevitavelmente, a coisa escalou na 2ª, culminando em Hiroshima e Nagasaki.
 Muitos acreditaram que o martírio japonês e as restantes atrocidades cometidas no maior conflito até então, tinham estabelecido o limite.
