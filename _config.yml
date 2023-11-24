@@ -33,6 +33,7 @@ github_username:  jekyll
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jemoji
 
 markdown: kramdown
 
