@@ -5,7 +5,7 @@ category: opiniao
 
 Fenomenal este serviço, com toda a sua caterva de títulos de onde escolher, tudo à distância de um ou dois pressionar de botão.
 
-É tanta a escolha, de fornecedores e conteúdo, que o antigo *zapping* televisivo - acção que chegou a ser categorizada como uma actividade em si mesma -, é comparativamente, uma saudosa recordação.
+É tanta a escolha, de fornecedores e conteúdo, que o antigo *zapping* televisivo &mdash; acção que chegou a ser categorizada como uma actividade em si mesma &mdash;, é comparativamente, uma saudosa recordação.
 
 <br/>
 E como se não bastasse, após verdadeiras maratonas de pré visualizações e sinopses despidas de qualquer informação útil para o processo de seleção, acabamos por eleger um qualquer título dos mais vistos, ou uma das últimas novidades. 
@@ -27,9 +27,7 @@ Evolução, progresso, chamem-lhe o que quiserem, mas para mim ficou um vazio. P
 <br/>
 O poder percorrer corredores e escaparates ao invés de listas.
 
-A ansiedade expectante por títulos desconhecidos, a uma cadência digerível, ao invés da submersão (submissão?) na produção de uma indústria que parece ter encontrado a pedra filosofal do entretenimento, sem tempo para ver, amadurecer, reflectir, apreciar.
-
-E sem contacto, sem interacção social.
+A ansiedade expectante por títulos desconhecidos, a uma cadência digerível, ao invés da submersão (submissão?) na produção de uma indústria que parece ter encontrado a pedra filosofal do entretenimento, sem tempo para ver, amadurecer, reflectir, apreciar. E sem contacto, sem interacção social.
 
 <br/>
 Uma pessoa ia ao clube, tomava algum tempo na escolha dum filme, levava para casa, via, passados um dia ou dois voltava ao clube para devolver, talvez repetindo o processo, ou talvez não, talvez para a semana que a vida real tem mais opções.

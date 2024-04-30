@@ -3,27 +3,21 @@ title: "Vou falar de futebol"
 category: opiniao
 ---
 
-Calma, sabem perfeitamente que é tema que não me interessa e não percebo uma bolha. Não olho para o campo e consigo perceber se estão a jogar em 4 4 2 ou 2 4 3 1 ou qualquer outra combinação (não faço ideia das possibilidades viáveis, só sei que têm de totalizar 10).
+Calma, sabem perfeitamente que é tema que não me interessa e não percebo uma bolha. Não olho para o campo e consigo perceber se estão a jogar em 4 4 2 ou 2 4 3 1 ou qualquer outra combinação (não faço ideia das possibilidades viáveis, só sei que têm de totalizar 10). Mas tendo em conta o calibre dos comentadores que têm direito a tempo de antena, que se lixe, também posso mandar umas postas de pescada.
 
-Mas tendo em conta o calibre dos comentadores que têm direito a tempo de antena, que se lixe, também posso mandar umas postas de pescada.
-
-Já tive oportunidade de falar sobre isto, vou repetir-me algures, mas acompanhem-me, através do futebol há de surgir outro tema.
+Já tive oportunidade de falar sobre isto, vou repetir-me algures, mas acompanhem-me, através do futebol há-de surgir outro tema.
 
 <br />
 
-Mesmo não ligando puto, é impossível ignorar todo o circo à volta do futebol, ou não fosse a comunicação social parte do problema. Mas aquilo a que se assiste nas divisões profissionais não se restringe aí. Sim, também sabemos que em escalões séniores das divisões inferiores o caos impera - quem não se lembra daquele grande programa de entretenimento chamado a Liga dos Últimos?
+Mesmo não ligando puto, é impossível ignorar todo o circo à volta do futebol, ou não fosse a comunicação social parte do problema. Mas aquilo a que se assiste nas divisões profissionais não se restringe aí. Sim, também sabemos que em escalões séniores das divisões inferiores o caos impera &mdash; quem não se lembra daquele grande programa de entretenimento chamado a Liga dos Últimos?
 
 Mas que se passa nos escalões inferiores, os da chamada formação? Muita coisa.
 
 <br />
 
-A brincar, a brincar, já há uns bons sete anos que acompanho em modo voluntário compulsivo as andanças do puto pelo futebol. 
+A brincar, a brincar, já há uns bons sete anos que acompanho em modo voluntário compulsivo as andanças do puto pelo futebol. Obviamente, já vi um pouco de tudo. E apesar da menor maturidade dos jogadores, a esmagadora maioria dos comportamentos censuráveis a que vou assistindo partem invariavelmente dos adultos. Seja nos bancos, seja nas bancadas.
 
-Obviamente, já vi um pouco de tudo. 
-
-E apesar da menor maturidade dos jogadores, a esmagadora maioria dos comportamentos censuráveis a que vou assistindo partem invariavelmente dos adultos. Seja nos bancos, seja nas bancadas.
-
-Dado os escalões em causa, e sendo as bancadas virtualmente compostas por familiares - essencialmente os progenitores dos atletas -, é interessantíssimo todo o conhecimento sociológico que se pode dali extrair.
+Dado os escalões em causa, e sendo as bancadas virtualmente compostas por familiares &mdash; essencialmente os progenitores dos atletas &mdash;, é interessantíssimo todo o conhecimento sociológico que se pode dali extrair.
 
 <br />
 
@@ -43,7 +37,7 @@ Tendo falhado a oportunidade em Fátima em 1917, os sociólogos têm semanalment
 
 <br />
 
-É por demais evidente que aqueles pais transportam todas as suas frustrações acumuladas ao longo da vida para as exorcizar semanalmente em bochechos de hora e meia. E a frustração agudiza nitidamente quando o pai foi/é um jogador falhado e transpôs toda a sua ambição para o filho, aquele que há de realizar o seu sonho.
+É por demais evidente que aqueles pais transportam todas as suas frustrações acumuladas ao longo da vida para as exorcizar semanalmente em bochechos de hora e meia. E a frustração agudiza nitidamente quando o pai foi/é um jogador falhado e projectou toda a sua ambição para o filho, aquele que há-de realizar o seu sonho.
 
 Naquela hora e meia, são, através dos filhos em campo, os seres mais injustiçados do mundo. E também os mais intolerantes. E os mais sapientes. Simultaneamente, os melhores pais, jogadores, árbitros e treinadores do mundo. Aquela hora e meia é o píncaro da sua existência. Mas alas, ninguém o reconhece.
 
@@ -71,11 +65,9 @@ Mas chega de generalidades, vamos a um jogo em concreto, em que a sociologia tem
 
 <br />
 
-Por razões que a razão desconhece, a associação permitiu que uma equipa feminina jogasse no campeonato masculino.
+Por razões que a razão desconhece, a associação permitiu que uma equipa feminina jogasse no campeonato masculino. Apesar de poder entender que há muito menos raparigas a jogar futebol que rapazes, e não existirem clubes suficientes com futebol feminino que possibilitem a efectivação de campeonatos femininos, especialmente em formação, há coisas que têm de ser ponderadas. Relembro, estamos a falar de jovens com 14, 15 anos.
 
-Apesar de poder entender que há muito menos raparigas a jogar futebol que rapazes, e não existirem clubes suficientes com futebol feminino que possibilitem a efectivação de campeonatos femininos, especialmente em formação, há coisas que têm de ser ponderadas.
-
-Relembro, estamos a falar de jovens com 14, 15 anos.
+<br />
 
 Embora existam, e sejam um factor, não vou invocar questões físicas. Nestas idades há minorcas que ainda não deram o salto, há postes que melhor seria que estivessem no basquete, encorpados e espiga-canivetes. Estas "injustiças" são inerentes a estes escalões e tanto acontece com rapazes como com raparigas.
 
@@ -111,15 +103,11 @@ Penso que são suficientemente claras todas as implicações decorrentes desta a
 
 <br />
 
-Como disse, muito se pode inferir socialmente numa hora e meia de uma peladita entre jovens.
-
-Junte-se tudo o que se passa nas escolas, e temos um retrato de como estamos a educar e do modelo que estamos a ser.
+Como disse, muito se pode inferir socialmente numa hora e meia de uma peladita entre jovens. Junte-se tudo o que se passa nas escolas, e temos um retrato de como estamos a educar e do modelo que estamos a ser.
 
 <br />
 
-O futebol tem muitos problemas, mas convenhamos, é o espelho de uma sociedade com problemas. 
-
-Espelho do umbiguismo cada vez menos agudo, cada vez mais crónico. O desrespeito por tudo o que não sou eu e a minha família. Somos melhores que todos os outros. Os meus filhos? Os melhores, nunca existiram seres mais perfeitos. Fizeram ou disseram? Foi sem intenção, coitadinhos. Tal como eu. Numa redoma, era onde deveriam estar e nunca sair.
+O futebol tem muitos problemas, mas convenhamos, é o espelho de uma sociedade com problemas. Espelho do umbiguismo cada vez menos agudo, cada vez mais crónico. O desrespeito por tudo o que não sou eu e a minha família. Somos melhores que todos os outros. Os meus filhos? Os melhores, nunca existiram seres mais perfeitos. Fizeram ou disseram? Foi sem intenção, coitadinhos. Tal como eu. Numa redoma, era onde deveriam estar e nunca sair.
 
 <br />
 

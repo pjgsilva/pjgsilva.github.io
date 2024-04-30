@@ -3,7 +3,7 @@ title: "Vulgarismos"
 category: opiniao
 ---
 
-Se algum leitor for susceptível a vocabulário vulgar, será melhor continuar a esfregar o dedo e passar ao próximo post.
+Se algum leitor for susceptível a vocabulário vulgar, será melhor continuar a esfregar o dedo e passar ao próximo _post_.
 
 <br/>
 Sendo um amante de linguística, é-me extremamente difícil entender toda a cabala montada sobre os chamados palavrões.\

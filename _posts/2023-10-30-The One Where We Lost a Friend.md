@@ -13,9 +13,7 @@ Goste-se ou não, Friends é incontornável. Provavelmente marcou-me porque o te
 Um daqueles casos em que os personagens são tão marcantes que se tornam reais. Vive-se os personagens, com os personagens. O que, em comédia, penso ser extremamente difícil.
 
 <br/>
-Num casting extremamente feliz, será difícil apontar favoritos, mas a ter de escolher um, dificilmente não seria o Chandler.
-
-Dificilmente não escolheria a ironia e o sarcasmo sobre o humor mais físico, ou mais directo, dos restantes.
+Num casting extremamente feliz, será difícil apontar favoritos, mas a ter de escolher um, dificilmente não seria o Chandler. Dificilmente não escolheria a ironia e o sarcasmo sobre o humor mais físico, ou mais directo, dos restantes.
 
 <br/>
 Não vamos deixar de nos ver, Matthew. "Onde?" *Seriously?!*

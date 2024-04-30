@@ -3,9 +3,7 @@ title: "O Clima, pois claro"
 category: opiniao
 ---
 
-Ainda gostava de saber se aqueles jovens cheios de si próprios vão sofrer algumas consequências pelos seus actos de vandalismo.
-
-O aparente beneplácito da sociedade parece fazer crer que não.
+Ainda gostava de saber se aqueles jovens cheios de si próprios vão sofrer algumas consequências pelos seus actos de vandalismo. O aparente beneplácito da sociedade parece fazer crer que não.
 
 <br/>
 Gostaria também de ouvir das suas bocas ideias sobre como implementar mudanças em vez de "acabem com isto" ou "acabem com aquilo".

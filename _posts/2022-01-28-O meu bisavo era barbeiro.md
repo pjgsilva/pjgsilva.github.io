@@ -21,8 +21,7 @@ Vem isto a propósito de outros personagens que, nestes tempos mais modernos pov
 Será defeito dos ditos, ou apenas reflexo daquilo em que a sociedade se tornou? Não sei, provavelmente um pouco de cada um destes factores e mais uns quantos. Mas é feio.
 
 <br/>
-Não gosto particularmente de falar de política. A razão é óbvia.\
-A maior parte das pessoas não consegue falar de forma isenta e racional (obviamente, não sou intocável neste aspecto, mas tento).
+Não gosto particularmente de falar de política. A razão é óbvia. A maior parte das pessoas não consegue falar de forma isenta e racional (obviamente, não sou intocável neste aspecto, mas tento).
 
 <br/>
 É verdade que este critério singelo seria suficiente para arranjar pelo menos um assunto por pessoa neste planeta do qual não poderia falar. Mas vamos ser sinceros, é muito difícil falar de política sem a maior parte das vezes a coisa azedar um bocado. É como o futebol.... Dois temas do carago.

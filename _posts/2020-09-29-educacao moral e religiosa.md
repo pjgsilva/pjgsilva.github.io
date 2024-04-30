@@ -5,9 +5,7 @@ category: opiniao
 
 O puto trouxe recado para casa dizendo que havia uma questão que tinha de ser resolvida sobre a disciplina de Educação Moral e Religiosa.
 
-Parece que não foi caso único. Aparentemente, a indicação que não pretendia frequentar a dita disciplina no formulário *online* não sortiu efeito e, mais uma vez aparentemente, nos casos em que isso aconteceu, o *default* foi ficar inscrito.
-
-Tive, por isso, de enviar um *email* e esclarecer a questão.
+Parece que não foi caso único. Aparentemente, a indicação que não pretendia frequentar a dita disciplina no formulário *online* não sortiu efeito e, mais uma vez aparentemente, nos casos em que isso aconteceu, o *default* foi ficar inscrito. Tive, por isso, de enviar um *email* e esclarecer a questão.
 
 <br/>
 Continuo sem entender como persiste esta disciplina nos programas emanados por um Ministério da Educação de um Estado tantas vezes apregoado de laico.

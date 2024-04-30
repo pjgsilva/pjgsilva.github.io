@@ -24,9 +24,7 @@ Como sempre, divago. Mas antes de ir para dentro, deixo um livro.
 
 <br />
 
-Alguns conhecerão o nome David McKee, autor e ilustrador, e a sua famosa criação, o elefante Elmer.
-
-Se não conhecem, azar. Felizmente, muitas crianças conhecem 😬
+Alguns conhecerão o nome David McKee, autor e ilustrador, e a sua famosa criação, o elefante Elmer. Se não conhecem, azar. Felizmente, muitas crianças conhecem 😬
 
 Mas não é com o Elmer que vos quero deixar.
 

@@ -14,4 +14,13 @@ Provavelmente, a coisa boa seria não termos de testemunhar a Covid... 🙄
 <br/>
 Uma letra magistral e, infelizmente dada a natureza humana, que vai manter-se sempre actual.
 
-*[Hope the Russians love their children too](https://youtu.be/wHylQRVN2Qs?si=YRt1TkKVh7sqoUI2)*
+<span class="container d-flex">
+<span class="col">
+	<span class="row">
+		<span class="col-sm">
+			<span class="row">![Hope the Russians love their children too](/assets/images/posts/russians.jpg){:class="image d-flex justify-content-center align-items-end"}</span>
+			<span class="row">[Hope the Russians love their children too](https://youtu.be/wHylQRVN2Qs?si=YRt1TkKVh7sqoUI2){:target="_blank"}{:rel="noopener noreferrer"}{:class="caption d-flex justify-content-center"}</span>
+		</span>
+	</span>	
+</span>
+</span>

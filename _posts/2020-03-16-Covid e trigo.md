@@ -15,7 +15,7 @@ No meu entender trata-se de uma falácia. Certo, é necessário conhecer o víru
 É um vírus, porra! Não se sabe como combatê-lo, mas sabe-se que tal como acontece com o influenza, o ébola e a sida, propagam-se por nossa via. Os vírus mutam, mas não ganham perninhas. Na maioria dos casos somos nós que os espalhamos, e neste caso, sabe-se com certeza que assim acontece. Não se tem a certeza se se transmite pelo ar ou pelo contacto com superfícies? *Ok*, mas de alguma forma ele passa de humano para humano e sobre isso não há dúvidas.
 
 <br/>
-Qual é a medida mais eficaz de não transmitir ao próximo? O novo *frisson* linguístico - distanciamento social.
+Qual é a medida mais eficaz de não transmitir ao próximo? O novo *frisson* linguístico &mdash; distanciamento social.
 
 Enquanto os governantes se continuam a regozijar com o bom comportamento dos portugueses, o aeroporto parece a feira do Relógio, até hoje as fronteiras terrestres continuavam escancaradas, os grandes centros comerciais continuam a ser frequentados e o diabo a sete. Porquê? Política, economia e claro, as sempre presentes liberdades e garantias.
 
@@ -31,10 +31,10 @@ Obviamente a contagem dos grãos necessários é trivial, **1** grão + **2** gr
 Quem tiver paciência pode fazer as continhas e chegar à conclusão que para satisfazer o pedido do ministro são necessários **18.446.744.073.709.551.615** grãos. Visto assim e tendo em conta que são grãos, até continua a não parecer muita coisa.
 
 <br/>
-No entanto vejamos: um grão de trigo pesa em média **50**$$mg$$. **100**$$g$$ de trigo ocupam **127**$$cm^3$$, logo **1**$$kg$$ de trigo ocupa **0,00127**$$m^3$$, sendo esse mesmo quilo de grão composto por cerca de **20000** elementos. Contas feitas, a brincadeira do ministro ocupa **1.171.368.248.680,56**$$m^3$$.
+No entanto vejamos: um grão de trigo pesa em média **50**&nbsp;$$mg$$. **100**&nbsp;$$g$$ de trigo ocupam **127**&nbsp;$$cm^3,$$ logo **1**&nbsp;$$kg$$ de trigo ocupa **0,00127**&nbsp;$$m^3,$$ sendo esse mesmo quilo de grão composto por cerca de **20000** elementos. Contas feitas, a brincadeira do ministro ocupa **1.171.368.248.680,56**&nbsp;$$m^3$$.
 
 <br/>
-Para pôr as coisas em perspectiva, vamos usar um campo de futebol, que tem cerca de **100** x **70** $$m$$. Se essa área fosse usada como base de uma caixa, as paredes da caixa tinham de ter **167.338.321,2**$$m$$, ou seja, **167 mil quilómetros** de altura para conter todos os grãos.
+Para pôr as coisas em perspectiva, vamos usar um campo de futebol, que tem cerca de **100**&nbsp;x&nbsp;**70**&nbsp;$$m$$. Se essa área fosse usada como base de uma caixa, as paredes da caixa tinham de ter **167.338.321,2**&nbsp;$$m$$, ou seja, **167 mil quilómetros** de altura para conter todos os grãos.
 
 <br/>
 Não se sabe se o ministro repensou o seu pedido, ou se ficou sem cabeça...

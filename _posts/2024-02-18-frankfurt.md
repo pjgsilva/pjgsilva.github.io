@@ -5,9 +5,7 @@ category: opiniao
 
 Praticamente desde a infância tardia que sonhava visitar a Alemanha.
 
-Poderia ser pelo Guttenberg, pelo Lutero, pelo Goethe, pelo Beethoven, Heisenberg ou Einstein.
-
-Ou mais prosaicamente, pela cerveja, sei lá.
+Poderia ser pelo Guttenberg, pelo Lutero, pelo Goethe, pelo Beethoven, Heisenberg ou Einstein. Ou mais prosaicamente, pela cerveja, sei lá.
 
 Mas não. O primeiro motivo foi sempre pelo seu papel na segunda guerra.
 
@@ -17,9 +15,7 @@ Como muitos, assumo sem qualquer problema o meu fascínio relativamente a este p
 
 O lugar-comum do fascínio dos rapazes por tudo o que é bélico? Não, não tive soldadinhos, nem tanques, nem espingardas.
 
-Mas nasci com muitos livros à volta, muitas temáticas, e uns pais que nunca me vedaram o seu acesso, independentemente da minha idade.
-
-Primeiro, apenas as fotografias, depois juntamente com o texto, percorri muitos livros. E repetidamente.
+Mas nasci com muitos livros à volta, muitas temáticas, e uns pais que nunca me vedaram o seu acesso, independentemente da minha idade. Primeiro, apenas as fotografias, depois juntamente com o texto, percorri muitos livros. E repetidamente.
 
 O meu primeiro contacto com a época foi assim. Talvez o bicho da História já me tivesse infectado e ajudado a compor a cena, não sei.
 
@@ -29,13 +25,11 @@ O que é certo, é que após meio século a matutar, a minha conclusão é que o
 
 Durante muitos anos, gostei de provocar dizendo que admirava o Hitler. Após o silêncio confrangedor e os olhares incrédulos, esclarecia que admirava a sua capacidade em mover uma nação atrás da sua loucura durante anos. Uma grande simplificação, concedo, mas cumpria o propósito de abrir o tema...
 
-Pessoalmente, visitar locais históricos não tem qualquer finalidade saudosista, não pretende evocar tempos ou personalidades passados.
+Pessoalmente, visitar locais históricos não tem qualquer finalidade saudosista, não pretende evocar tempos ou personalidades passados. Mas permite-me sentir a História. Uns momentos apenas, e a minha mente começa a abstrair-se do presente e a pensar no que se passou ali. Uma laje no chão, e penso em quantos pés a pisaram ao longo dos séculos. Uma coluna, e tenho de tocá-la e pensar em quantas mãos a tocaram antes de mim, que vida foi a dessas pessoas.
 
-Mas permite-me sentir a História. Uns momentos apenas, e a minha mente começa a abstrair-se do presente e a pensar no que se passou ali. Uma laje no chão, e penso em quantos pés a pisaram ao longo dos séculos. Uma coluna, e tenho de tocá-la e pensar em quantas mãos a tocaram antes de mim, que vida foi a dessas pessoas.
+<br />
 
-Não é nenhuma pancada digna de um romântico do séc. XIX, mas algo vital para o meu ser.
-
-Mal ou bem, chegámos aqui, estamos aqui, temos tanto que tomamos como garantido, e apenas porque outros nos antecederam. Não entendo tanta indiferença pelo passado, quando foi ele que nos trouxe até aqui.
+Não é nenhuma pancada digna de um romântico do séc. XIX, mas algo vital para o meu ser. Mal ou bem, chegámos aqui, estamos aqui, temos tanto que tomamos como garantido, e apenas porque outros nos antecederam. Não entendo tanta indiferença pelo passado, quando foi ele que nos trouxe até aqui.
 
 <br />
 
@@ -78,9 +72,7 @@ Podem ter reconstruído os prédios ao seu redor, maioritariamente destruidos no
 
 Como deixar de sentir?
 
-Neste contexto, nunca entendi o porquê de se tentar apagar do mapa, e consequentemente, da memória, locais historicamente importantes, porque as ocorrências associadas foram negativas.
-
-Principalmente, quando a alegação é não tornar os locais destino de uma espécie de peregrinação negativa.
+Neste contexto, nunca entendi o porquê de se tentar apagar do mapa, e consequentemente, da memória, locais historicamente importantes, porque as ocorrências associadas foram negativas. Principalmente, quando a alegação é não tornar os locais destino de uma espécie de peregrinação negativa.
 
 Entendo que há mentalidades perigosas, mas acredito que o livre-arbítrio é, de entre muitos defeitos, uma das maiores características humanas.
 
@@ -92,9 +84,9 @@ Pelo contrário, é preciso divulgar, nunca esquecer, e permitir que numa socied
 
 Como se pode hipocritamente aceitar Auschwitz como um local de peregrinação, de martírio, e glorificador de uma vitimização mal escondida e, por outro lado, condenar, ocultando e olvidando, outros locais igualmente importantes?
 
-Proverbialmente, uma moeda tem duas faces. Tecnicamente, tem três.
+<br />
 
-A História, essa é poligonal. Não nos podemos quedar satisfeitos apenas conhecendo as faces iluminadas. As faces na sombra também fazem parte do todo.
+Proverbialmente, uma moeda tem duas faces. Tecnicamente, tem três. A História, essa é poligonal. Não nos podemos quedar satisfeitos apenas conhecendo as faces iluminadas. As faces na sombra também fazem parte do todo.
 
 <br />
 

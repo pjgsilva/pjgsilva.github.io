@@ -39,7 +39,7 @@ O que não me parece normal, é distinguir entre *jam, jellie e marmalade*, defi
 
 <br/>
 
-Desde pelo menos 1970, nos encontros FAO/OMS - em que Portugal, membro desde 1963, nunca participou-, que se tentou aprovar um standard para produtos desta tipologia.
+Desde pelo menos 1970, nos encontros FAO/OMS &mdash; em que Portugal, membro desde 1963, nunca participou &mdash;, que se tentou aprovar um standard para produtos desta tipologia.
 
 Quando finalmente saiu o standard CXS 80 em 1981, o texto aprovado define a tal distinção entre *jam, jellie e marmalade*, e contém coisas como *"'Marmalade' is the product obtained by processing prepared citrus fruit", "It does not apply to products prepared from fruits other than citrus [...] which do not comply with the minimum requirement of this standard and which in some countries are commonly described as Marmalade"*.
 
@@ -83,12 +83,8 @@ Provavelmente não é uma questão importante. Se Portugal nunca se queixou, se 
 
 <br/>
 
-Mas penso ser sintomático. De muitas coisas, mas principalmente do que é legislar em modo autista. Marmelada? Que é isso comparado com tantas outras coisas realmente importantes?
-
-Mas se acontece com a simples marmelada, então nem imagino...
+Mas penso ser sintomático. De muitas coisas, mas principalmente do que é legislar em modo autista. Marmelada? Que é isso comparado com tantas outras coisas realmente importantes? Mas se acontece com a simples marmelada, então nem imagino...
 
 <br/>
 
-Burocratas. Empaláva-os todos. Mas se calhar com um bocadinho de marmelada barrada no pau.
-
-De citrinos claro, acidificada.
+Burocratas. Empaláva-os todos. Mas se calhar com um bocadinho de marmelada barrada no pau. De citrinos claro, acidificada.

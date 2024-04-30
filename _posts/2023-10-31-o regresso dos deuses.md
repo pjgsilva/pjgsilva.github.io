@@ -3,21 +3,13 @@ title: "O regresso dos deuses"
 category: opiniao
 ---
 
-Não é o Halloween em particular. Um gajo habitua-se.
-
-Já deixou de me enervar, já nem sequer o desprezo assoma.
-
-Agora fico-me pela indiferença.
+Não é o Halloween em particular. Um gajo habitua-se. Já deixou de me enervar, já nem sequer o desprezo assoma. Agora fico-me pela indiferença.
 
 <br/>
-Mas nesta, como em tantas outras datas de que o sincretismo cristão se apoderou, permanece uma inquietação.
-
-Deixámos de observar e sentir o mundo. Deixámos de comungar com ele.
+Mas nesta, como em tantas outras datas de que o sincretismo cristão se apoderou, permanece uma inquietação. Deixámos de observar e sentir o mundo. Deixámos de comungar com ele.
 
 <br/>
-Fazíamo-lo através de divindades estreitamente ligadas a ele.
-
-Celebrávamos a vida. A nossa e a do mundo. E a morte também.
+Fazíamo-lo através de divindades estreitamente ligadas a ele. Celebrávamos a vida. A nossa e a do mundo. E a morte também.
 
 Principalmente, observávamos o seu pulsar. O calendário não era um mero instrumento de subjugação à rotina como actualmente. 
 
@@ -34,14 +26,10 @@ Actualmente, os progressos tecnológicos cada vez mais acelerados vão cortando 
 <br/>
 Paradoxalmente, somos auto-suficientes apenas porque o mundo nos permite.
 
-Sabemos que dependemos dele, e apenas por isso, dizemos agora que nos preocupamos com ele. Hipócrita e egoisticamente, apenas procuramos a nossa salvação, e não é a espiritual.
-
-Conseguíssemos nós actualmente chegar a outros planetas, e este já tinha o destino traçado.
+Sabemos que dependemos dele, e apenas por isso, dizemos agora que nos preocupamos com ele. Hipócrita e egoisticamente, apenas procuramos a nossa salvação, e não é a espiritual. Conseguíssemos nós actualmente chegar a outros planetas, e este já tinha o destino traçado.
 
 <br/>
-É preciso voltar a ouvir e sentir o mundo.
-
-Voltarmos a ser parte dele, vivermos com ele e não dele.
+É preciso voltar a ouvir e sentir o mundo. Voltarmos a ser parte dele, vivermos com ele e não dele.
 
 <br/>
 Tivera eu o engenho do Fernando Pessoa, e com menos verborreia e maior beleza teria dito

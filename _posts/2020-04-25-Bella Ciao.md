@@ -48,4 +48,13 @@ E quem pode falar de Goran sem falar de Kusturica? Enfim, um regalo para todos o
 >questo è il fiore del partigiano\
 >morto per la libertà
 
-*[Para degustar](https://youtu.be/OyMA84-mowI?si=51uYGr_JI1nr5DZa)*
+<span class="container d-flex">
+<span class="col">
+	<span class="row">
+		<span class="col-sm">
+			<span class="row">![Para degustar](/assets/images/posts/goran.jpg){:class="image d-flex justify-content-center align-items-end"}</span>
+			<span class="row">[Para degustar](https://youtu.be/OyMA84-mowI?si=51uYGr_JI1nr5DZa){:target="_blank"}{:rel="noopener noreferrer"}{:class="caption d-flex justify-content-center"}</span>
+		</span>
+	</span>	
+</span>
+</span>
