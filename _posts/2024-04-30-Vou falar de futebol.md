@@ -35,7 +35,7 @@ Os jogos do meu puto - Iniciados, 14, 15 anos -, contam com a presença de dois 
 
 <br />
 
-Mas como dizia, conhecimento sociológico (quiçá, psicólogo também).
+Mas como dizia, conhecimento sociológico (quiçá, psicológico também).
 
 <br />
 
