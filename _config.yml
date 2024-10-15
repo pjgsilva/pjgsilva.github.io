@@ -20,6 +20,7 @@
 
 title: Cogito, ergo scribo
 email: your-email@example.com
+description_biblio: Ruminações sobre leituras
 description: >- # this means to ignore newlines until "baseurl:"
   Ruminações sobre tudo e nada
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -50,6 +51,7 @@ collections:
   albums:
   movies:
   books:
+  biblio:
 
 defaults:
   - scope:
