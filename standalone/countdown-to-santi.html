@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="pt-pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>X Aniversário Operação Santiago</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rosarivo:ital@0;1&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0; /* Remove margens padrão do body */
+        }
+
+        .rosarivo-regular {
+          font-family: "Rosarivo", cursive;
+          font-weight: 400;
+          font-style: normal;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            background: url('slider-2.jpg') no-repeat center center fixed;
+            background-size: cover; /* Faz a imagem cobrir toda a área */
+        }
+
+        .header {
+            margin: 40px 20px 20px;
+            color: yellow;
+            width: calc(100% - 40px);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .header-title {
+            font-size: 80px;
+            margin-bottom: 40px;
+            background-color: rgba(0, 0, 50, 0.5); /* Fundo escuro transparente */
+            display: inline-block; /* Limita o fundo à área do texto */
+            padding: 5px 10px;
+        }
+
+        .header-date-container {
+            display: flex;
+            justify-content: flex-end; /* Alinha o bloco de data à direita */
+        }
+
+        .header-date {
+            font-size: 32px;            
+/*            text-align: right;*/
+            background-color: rgba(0, 0, 50, 0.5); /* Fundo escuro transparente */
+            display: inline-block;
+            padding: 5px 10px;
+        }
+
+        .date-part {
+            display: block;
+        }
+
+        .countdown-ended {
+            font-size: 36px;
+            color: yellow;
+            background-color: rgba(0, 0, 0, 0.5);
+            padding: 10px 20px;
+            text-align: center;
+            margin: 20px 0;
+            display: none; /* Escondido por padrão */
+        }
+
+        .counter {
+            display: flex;
+            gap: 40px;
+            margin: 50px 0;
+        }
+
+        .digit-group {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            color: #fff;
+        }
+
+        .label {
+            font-size: 18px;
+            margin-top: 10px;
+/*            font-family: Arial, sans-serif;*/
+        }
+
+        .digit {
+            background: #000;
+            padding: 15px;
+            border-radius: 5px;
+            display: flex;
+        }
+
+        .blink .on {
+            animation: blink 0.5s infinite; /* Piscar a cada 0,5s */
+        }
+
+        @keyframes blink {
+            50% { opacity: 0.2; } /* Alterna entre visível e invisível */
+        }
+
+        .segment {
+            width: 60px;
+            height: 100px;
+            position: relative;
+            margin: 5px;
+        }
+
+        .segment span {
+            position: absolute;
+            background: darkorange;
+            opacity: 0.2;
+            transition: opacity 0.1s;
+        }
+
+        .segment .on {
+            opacity: 1;
+        }
+
+        .a { top: 0; left: 22px; width: 30px; height: 8px; transform: skewX(-10deg); }
+        .b { top: 10px; right: 2px; width: 8px; height: 35px; transform: skewX(-10deg); }
+        .c { bottom: 10px; right: 10px; width: 8px; height: 35px; transform: skewX(-10deg); }
+        .d { bottom: 0; left: 7px; width: 30px; height: 8px; transform: skewX(-10deg); }
+        .e { bottom: 10px; left: 0; width: 8px; height: 35px; transform: skewX(-10deg); }
+        .f { top: 10px; left: 8px; width: 8px; height: 35px; transform: skewX(-10deg); }
+        .g { top: 47px; left: 14px; width: 30px; height: 8px; transform: skewX(-10deg); }
+
+        .iframe-container {
+            margin: 40px 0 20px 0; /* Espaçamento inferior e esquerdo */
+            align-self: center; /* Alinha à esquerda no flex */
+        }
+
+        iframe {
+            border: 0;
+            max-width: 100%;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                min-height: auto;
+/*                padding: 20px; /* Adiciona espaço interno */*/
+            }
+
+            .header {
+                margin: 20px 0 0; /* Ajustado para mobile */
+                width: 100%;
+            }
+
+            .header-title {
+                font-size: 48px; /* Reduz o tamanho do título */
+                text-align: center;                
+            }
+
+            .header-date-container {
+                justify-content: center; /* Centraliza no mobile */
+            }
+
+            .header-date {
+                font-size: 28px;
+            }
+
+            .countdown-ended {
+                font-size: 24px;
+            }
+
+            .counter {
+                flex-direction: column; /* Empilha os elementos do contador */
+                gap: 20px; /* Reduz o espaçamento */
+            }
+
+            .digit-group {
+                width: 100%; /* Ocupa toda a largura */
+            }
+
+            .digit {
+                justify-content: center; /* Centraliza os dígitos */
+            }
+
+            .iframe-container {
+                margin: 20px 0 0;
+            }
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">        
+        <div class="header rosarivo-regular">
+            <div class="header-title">X Aniversário Operação Santiago</div>
+            <div class="header-date-container">
+                <div class="header-date">
+                    <span class="date-part">Ponte de Lima???</span>
+                    <span class="date-part">14 de abril 2027</span>
+                    <span class="date-part">9h30</span>
+                </div>
+            </div>
+        </div>
+        <div class="countdown-ended rosarivo-regular">
+            <span class="date-part">É mexer, é mexer! Ala que se faz tarde!</span>
+            <span class="date-part">Obradoiro aguarda-nos!!</span>
+        </div>
+        <div class="counter">
+            <div class="digit-group">
+                <div class="digit" id="days"></div>
+                <!-- <div class="label">Dias</div> -->
+            </div>
+            <div class="digit-group">
+                <div class="digit" id="hours"></div>
+                <!-- <div class="label">Horas</div> -->
+            </div>
+            <div class="digit-group">
+                <div class="digit" id="minutes"></div>
+                <!-- <div class="label">Minutos</div> -->
+            </div>
+            <div class="digit-group">
+                <div class="digit" id="seconds"></div>
+                <!-- <div class="label">Segundos</div> -->
+            </div>
+        </div>
+        <div class="iframe-container">
+            <iframe width="480" height="260" src="https://www.youtube.com/embed/Q4D-hlvFkQc?si=Cu2EVseWzv2X6lYn" title="Operação Santiago" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+    </div>
+
+    <script>
+        const targetDate = new Date('2027-04-14T09:30:00').getTime();
+
+        const digits = {
+            0: ['a', 'b', 'c', 'd', 'e', 'f'],
+            1: ['b', 'c'],
+            2: ['a', 'b', 'd', 'e', 'g'],
+            3: ['a', 'b', 'c', 'd', 'g'],
+            4: ['b', 'c', 'f', 'g'],
+            5: ['a', 'c', 'd', 'f', 'g'],
+            6: ['a', 'c', 'd', 'e', 'f', 'g'],
+            7: ['a', 'b', 'c'],
+            8: ['a', 'b', 'c', 'd', 'e', 'f', 'g'],
+            9: ['a', 'b', 'c', 'd', 'f', 'g']
+        };
+
+        function createSegmentDisplay(number) {
+            const segment = document.createElement('div');
+            segment.className = 'segment';
+            segment.innerHTML = `
+                <span class="a"></span>
+                <span class="b"></span>
+                <span class="c"></span>
+                <span class="d"></span>
+                <span class="e"></span>
+                <span class="f"></span>
+                <span class="g"></span>
+            `;
+            const segments = digits[number] || [];
+            segments.forEach(seg => {
+                const element = segment.querySelector(`.${seg}`);
+                if (element) element.classList.add('on');
+            });
+            return segment;
+        }
+
+        function updateDigit(element, value, minDigits) {
+            element.innerHTML = '';
+            const strValue = String(value).padStart(minDigits, '0');
+            for (let i = 0; i < strValue.length; i++) {
+                element.appendChild(createSegmentDisplay(parseInt(strValue[i])));
+            }
+        }
+
+        function updateCounter() {
+            const now = new Date().getTime();
+            const distance = targetDate - now;
+            const daysElement = document.getElementById('days');
+            const hoursElement = document.getElementById('hours');
+            const minutesElement = document.getElementById('minutes');
+            const secondsElement = document.getElementById('seconds');
+            const countdownEnded = document.querySelector('.countdown-ended');
+
+            if (distance <= 0) {
+                // Quando o contador chega a zero
+                updateDigit(daysElement, 0, 3);
+                updateDigit(hoursElement, 0, 2);
+                updateDigit(minutesElement, 0, 2);
+                updateDigit(secondsElement, 0, 2);
+                
+                // Adiciona a classe blink aos dígitos
+                [daysElement, hoursElement, minutesElement, secondsElement].forEach(element => {
+                    element.classList.add('blink');
+                });
+
+                // Mostra o texto "Contagem Finalizada!"
+                countdownEnded.style.display = 'block';
+                return;
+            }
+
+            const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+            const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+            updateDigit(daysElement, days, 3);
+            updateDigit(hoursElement, hours, 2);
+            updateDigit(minutesElement, minutes, 2);
+            updateDigit(secondsElement, seconds, 2);
+        }
+
+        updateCounter();
+        setInterval(updateCounter, 1000);
+    </script>
+</body>
+</html>
