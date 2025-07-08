@@ -45,3 +45,6 @@ O Jorge aterrou, mas acordou a meio da noite com um barulho. Ainda foi lá abaix
 
 <br/>
 *E à noite na estalagem. Se bem me recordo, supostamente havia mais alguém lá hospedado, mas não quisemos saber e trouxemos o pinchavelho do wi-fi das escadas para o nosso quarto.*
+
+<br/>
+*Revendo as imagens deste dia, ao passar por Alvaiázere e Ansião, é impossível não lembrar a tragédia que ali haveria de grassar no Verão. O fundo Mortal Coil quase que soa premonitório.*
