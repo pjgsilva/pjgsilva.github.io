@@ -1,5 +1,8 @@
+- title: Home
+  url: /
+
 - title: Bibliofilia
-  url: https://pjgsilva.github.io/biblio
+  url: lego:/
 
 - title: Santiago
   url: /santiago.html
