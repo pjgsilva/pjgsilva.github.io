@@ -85,7 +85,7 @@ defaults:
       layout: "default"
 
 bases:
-  lego: "https://pjgsilva.github.io"
+  lego: "https://pjgsilva.github.io/biblio"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
